@@ -6,7 +6,7 @@ Our website at [biglocalnews.org](https://biglocalnews.org/) allows journalists 
 
 ## Open-source software
 
-### Data scraping
+### 🔢 Data scraping
 
 Repositories that gather public records from the web.
 
@@ -17,7 +17,7 @@ Repositories that gather public records from the web.
 | [warn-scraper](https://github.com/biglocalnews/warn-scraper)     | Command-line interface for downloading WARN Act notices of qualified plant closings and mass layoffs from state government websites |
 | [warn-transformer](https://github.com/biglocalnews/warn-transformer) | Consolidate, enrich and republish the data gathered by warn-scraper                                                                 |
 | [warn-github-flow](https://github.com/biglocalnews/warn-github-flow) | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
-### Data analysis
+### 🧮 Data analysis
 
 Code that uses data to conduct an investigation
 
@@ -27,7 +27,7 @@ Code that uses data to conduct an investigation
 | [covid-19-tweets](https://github.com/biglocalnews/covid19-tweets)                    | Tracks information dissemination about COVID-19 by local government agencies |
 | [warn-california-analysis](https://github.com/biglocalnews/warn-california-analysis) | An exploration and analysis of the WARN Notices data for California          |
 
-### biglocalnews.org
+### 🌎 biglocalnews.org
 
 Tools that connect to our platform at [biglocalnews.org](https://biglocalnews.org)
 
