@@ -1,6 +1,6 @@
 Big Local News is a program at Stanford University creating tools and data that empower journalists to better cover their community. 
 
-Our team authors open-source software that gathers and refines hard-to-obtain public records about policing, politics, public health, employment and other topics. We work with reporters to analyze the records, find stories and produce journalism with impact.
+Our team authors open-source software that gathers and refines hard-to-obtain public records about policing, politics, public health, employment and other topics. We work with reporters to analyze the records, find stories and produce journalism that makes an impact.
 
 Our website at [biglocalnews.org](https://biglocalnews.org/) allows journalists to pool data and work together.
 
@@ -17,6 +17,13 @@ Repositories that gather public records from the web.
 | [warn-scraper](https://github.com/biglocalnews/warn-scraper)     | Command-line interface for downloading WARN Act notices of qualified plant closings and mass layoffs from state government websites |
 | [warn-transformer](https://github.com/biglocalnews/warn-transformer) | Consolidate, enrich and republish the data gathered by warn-scraper                                                                 |
 | [warn-github-flow](https://github.com/biglocalnews/warn-github-flow) | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
+### Data analysis
+
+| name                                                                                 | description                                                                  |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| [california-wildfires](https://github.com/biglocalnews/california-wildfires)         | Investigation into the costs of wildfires across the U.S.                    |
+| [covid-19-tweets](https://github.com/biglocalnews/covid19-tweets)                    | Tracks information dissemination about COVID-19 by local government agencies |
+| [warn-california-analysis](https://github.com/biglocalnews/warn-california-analysis) | An exploration and analysis of the WARN Notices data for California          |
 
 ### biglocalnews.org
 
