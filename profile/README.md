@@ -10,8 +10,8 @@ Repositories that gather public records from the web.
 
 | name             | description                                                                                                                         |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| warn-scraper     | Command-line interface for downloading WARN Act notices of qualified plant closings and mass layoffs from state government websites |
-| warn-transformer | Consolidate, enrich and republish the data gathered by warn-scraper                                                                 |
-| warn-github-flow | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
-| civic-scraper    | Download agendas, minutes and other documents produced by local governments                                                         |
-| court-scraper    | Python library and command-line tool that help search and download case information from county courts in the United States.        |
+| [warn-scraper](https://github.com/biglocalnews/warn-scraper)     | Command-line interface for downloading WARN Act notices of qualified plant closings and mass layoffs from state government websites |
+| [warn-transformer](https://github.com/biglocalnews/warn-transformer) | Consolidate, enrich and republish the data gathered by warn-scraper                                                                 |
+| [warn-github-flow](https://github.com/biglocalnews/warn-github-flow) | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
+| [civic-scraper](https://github.com/biglocalnews/civic-scraper)    | Download agendas, minutes and other documents produced by local governments                                                         |
+| [court-scraper](https://github.com/biglocalnews/court-scraper)    | Python library and command-line tool that help search and download case information from county courts in the United States.        |
