@@ -19,6 +19,8 @@ Repositories that gather public records from the web.
 | [warn-github-flow](https://github.com/biglocalnews/warn-github-flow) | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
 ### Data analysis
 
+Code that uses data to conduct an investigation
+
 | name                                                                                 | description                                                                  |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | [california-wildfires](https://github.com/biglocalnews/california-wildfires)         | Investigation into the costs of wildfires across the U.S.                    |
@@ -26,6 +28,8 @@ Repositories that gather public records from the web.
 | [warn-california-analysis](https://github.com/biglocalnews/warn-california-analysis) | An exploration and analysis of the WARN Notices data for California          |
 
 ### biglocalnews.org
+
+Tools that connect to our platform at [biglocalnews.org](https://biglocalnews.org)
 
 | name                                                                   | description                                                            |
 |------------------------------------------------------------------------|------------------------------------------------------------------------|
