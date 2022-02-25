@@ -4,7 +4,9 @@ Our team authors open-source software, found below, that gathers and refines har
 
 Our website at [biglocalnews.org](https://biglocalnews.org/) allows journalists to pool data and work together.
 
-## Data scraping
+## Open-source software
+
+### Data scraping
 
 Repositories that gather public records from the web.
 
@@ -15,3 +17,10 @@ Repositories that gather public records from the web.
 | [warn-github-flow](https://github.com/biglocalnews/warn-github-flow) | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
 | [civic-scraper](https://github.com/biglocalnews/civic-scraper)    | Download agendas, minutes and other documents produced by local governments                                                         |
 | [court-scraper](https://github.com/biglocalnews/court-scraper)    | Python library and command-line tool that help search and download case information from county courts in the United States.        |
+
+### biglocalnews.org
+
+| name                                                                   | description                                                            |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| [bln-python-client](https://github.com/biglocalnews/bln-python-client) | Python client for the biglocalnews.org API                             |
+| [upload-files](https://github.com/biglocalnews/upload-files)           | Upload comma-delimited files to biglocalnews.org in your GitHub Action |
