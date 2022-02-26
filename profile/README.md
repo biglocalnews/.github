@@ -6,6 +6,21 @@ Our team authors open-source software that gathers and refines hard-to-obtain pu
 
 Our website at [biglocalnews.org](https://biglocalnews.org/) offers a free archiving service that allows journalists to store and share data.
 
+## Our staff
+
+Members of our team on GitHub
+
+* Justin Mayo ([@justinmayo](https://github.com/justinmayo))
+* Dilcia Mercedes ([@Dilcia19](https://github.com/dilcia19/))
+* Joe Nudell ([@jnu](https://github.com/jnu))
+* Cheryl Phillips ([@cephillips](https://github.com/cephillips))
+* Lisa Pickoff-White ([@pickoffwhite](https://github.com/pickoffwhite))
+* Regina Roberts ([@regirob831](https://github.com/regirob831))
+* Eric Sagara ([@esagara](https://github.com/esagara))
+* Serdar Tumgoren ([@zstumgoren](https://github.com/zstumgoren))
+* Ben Welsh ([@palewire](https://github.com/palewire))
+* Simon Willison ([@simonw](https://github.com/simonw))
+
 ## Open-source software
 
 ### 🔢 Data scraping
