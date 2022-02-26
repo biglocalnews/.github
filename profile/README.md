@@ -1,4 +1,4 @@
-![BIG LOCAL NEWS](https://raw.githubusercontent.com/biglocalnews/design/main/social/github-800x200.png?token=GHSAT0AAAAAABQEXXRLJUVYZCTL5FKCOU2OYRDWAYQ)
+![BIG LOCAL NEWS](./github-840x200.png)
 
 Big Local News is a program at Stanford University creating tools and data that empower journalists to better cover their community. 
 
