@@ -59,7 +59,7 @@ Repositories that gather public records from the web.
 Code that uses data to conduct an investigation
 
 | name                                                                                 | description                                                                  |
-|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+|:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
 | [california-wildfires](https://github.com/biglocalnews/california-wildfires)         | Investigation into the costs of wildfires across the U.S.                    |
 | [covid-19-tweets](https://github.com/biglocalnews/covid19-tweets)                    | Tracks information dissemination about COVID-19 by local government agencies |
 | [warn-california-analysis](https://github.com/biglocalnews/warn-california-analysis) | An exploration and analysis of the WARN Notices data for California          |
