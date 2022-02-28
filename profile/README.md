@@ -15,7 +15,7 @@ Our team authors open-source software that gathers and refines hard-to-obtain pu
 What we're working on now.
 
 | name                                             | description                                                                                                  |
-|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+|:-------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
 | [Agenda Watch](http://agendawatch.org/)                                     | Collecting and analyzing meeting agendas from local governments across the U.S.                              |
 | [biglocalnews.org](https://biglocalnews.org)                                 | A free archiving service for journalists to store and share data                                             |
 | [Community Law Enforcement Accountability Network](https://data.berkeley.edu/news/berkeley-data-science-students-journalism-faculty-building-public-database-police-misconduct) | Collecting and analyzing use of force and misconduct cases from local law enforcement agencies               |
