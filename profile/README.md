@@ -4,8 +4,6 @@ Big Local News is a program at Stanford University that empowers journalists to 
 
 Our team authors open-source software that gathers and refines hard-to-obtain public records about policing, politics, public health, employment and other topics. We collaborate with reporters to analyze the records, find stories and produce journalism that makes an impact.
 
-Our website at [biglocalnews.org](https://biglocalnews.org/) offers a free archiving service that allows journalists to store and share data.
-
 ## Our staff
 
 Members of our team on GitHub
