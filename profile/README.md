@@ -4,6 +4,20 @@ Big Local News is a program at Stanford University that empowers journalists to 
 
 Our team authors open-source software that gathers and refines hard-to-obtain public records about policing, politics, public health, employment and other topics. We collaborate with reporters to analyze the records, find stories and produce journalism that makes an impact.
 
+## Active projects
+
+| name                                             | description                                                                                                  |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [Agenda Watch](http://agendawatch.org/)                                     | Collecting and analyzing meeting agendas from local governments across the U.S.                              |
+| [biglocalnews.org](https://biglocalnews.org)                                 | A free archiving service for journalists to store and share data                                             |
+| [Community Law Enforcement Accountability Network](https://data.berkeley.edu/news/berkeley-data-science-students-journalism-faculty-building-public-database-police-misconduct) | Collecting and analyzing use of force and misconduct cases from local law enforcement agencies               |
+| Court Scraper                                    | Collecting and anlyzing case information from county courts across the U.S.                                  |
+| [COVID-19 Case Mapper](https://covid19.biglocalnews.org/county-maps/index.html#/)                             | A tool for local journalists to easily embed up-to-date visualizations of COVID-19 trends in their community |
+| [JSK-BLN Reporting Grants](https://jsk.stanford.edu/news/2020/jsk-and-big-local-news-launch-new-data-journalism-grants/)                         | Funding data-driven, replicable stories related to the COVID-19 pandemic                                     |
+| Layoff Watch                                     | Collecting and analyzing WARN Act notices of mass layoffs and plant closures across the U.S.                 |
+| [Stanford School Enrollment Project](https://docs.google.com/document/d/1WRm4KZPDGL1USPaf0E1AIa7gbyeKncv04Pg_rM1N7po/edit)               | Collecting and analyzing a nationwide dataset of K-12 school enrollment before and after the COVID-19 pandemic                        |
+| [The 2020 Census Data Co-op](https://sites.google.com/stanford.edu/census-data-co-op)                       | Tools and training to help journalists find Census stories                                                   |
+
 ## Our staff
 
 Members of our team on GitHub
