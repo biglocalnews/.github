@@ -6,6 +6,8 @@ Our team authors open-source software that gathers and refines hard-to-obtain pu
 
 ## Active projects
 
+What we're working on now.
+
 | name                                             | description                                                                                                  |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | [Agenda Watch](http://agendawatch.org/)                                     | Collecting and analyzing meeting agendas from local governments across the U.S.                              |
