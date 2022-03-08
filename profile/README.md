@@ -7,7 +7,7 @@ From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools 
 **Table of contents**
 
 * [Projects](https://github.com/biglocalnews#projects)
-* [Our staff](https://github.com/biglocalnews#our-staff)
+* [Staff](https://github.com/biglocalnews#staff)
 * [Open-source software](https://github.com/biglocalnews#open-source-software)
 
 ## Projects
@@ -21,7 +21,7 @@ What we're working on now.
 | COVID-19         | Tracking the toll the COVID-19 pandemic, as well as its impact on our economy and public institutions         | [COVID-19 Case Mapper](https://covid19.biglocalnews.org/county-maps/index.html#/), [Stanford School Enrollment Project](https://docs.google.com/document/d/1WRm4KZPDGL1USPaf0E1AIa7gbyeKncv04Pg_rM1N7po/edit), [Layoff Watch](https://github.com/biglocalnews/warn-github-flow)  |
 | Demographics     | Tools and trainings that help journalists find stories using Census data                             | [The 2020 Census Data Co-op](https://sites.google.com/stanford.edu/census-data-co-op)                                              |                                               |
 
-## Our staff
+## Staff
 
 Members of our team on GitHub
 
