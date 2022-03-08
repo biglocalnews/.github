@@ -12,7 +12,7 @@ From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools 
 
 ## Projects
 
-What we're working on now.
+What we're working on.
 
 | Topic            | Description                                                                                                   | Products                                                                |
 |:-----------------|:--------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
