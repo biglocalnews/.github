@@ -6,11 +6,11 @@ From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools 
 
 **Table of contents**
 
-* [Active projects](https://github.com/biglocalnews#active-projects)
+* [Projects](https://github.com/biglocalnews#projects)
 * [Our staff](https://github.com/biglocalnews#our-staff)
 * [Open-source software](https://github.com/biglocalnews#open-source-software)
 
-## Active projects
+## Projects
 
 What we're working on now.
 
