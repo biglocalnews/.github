@@ -1,6 +1,6 @@
 ![BIG LOCAL NEWS](https://raw.githubusercontent.com/biglocalnews/.github/main/profile/github-840x200.png)
 
-It’s too hard for watchdogs to access data and other public records about policing, public health and local government.
+It’s too hard for watchdogs to access public records about policing, public health, local government and other vital topics.
 
 From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools and collaborates with reporters to produce local journalism that makes an impact.
 
