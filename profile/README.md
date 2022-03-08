@@ -14,7 +14,7 @@ From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools 
 
 What we're working on now.
 
-| Topic            | Description                                                                                                   | Projects                                                                |
+| Topic            | Description                                                                                                   | Products                                                                |
 |:-----------------|:--------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
 | Law enforcement  | Gathering local law enforcment records related to use of force, misconduct and racial profiling | [Community Law Enforcement Accountability Network](https://data.berkeley.edu/news/berkeley-data-science-students-journalism-faculty-building-public-database-police-misconduct), [Stanford Open Policing Project](https://openpolicing.stanford.edu/) |
 | Local government | Mining public records from local boards, councils and courts                                    | [Agenda Watch](http://agendawatch.org/), [Court Scraper](https://github.com/biglocalnews/court-scraper)                                             |
