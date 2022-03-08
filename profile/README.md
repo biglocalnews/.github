@@ -14,17 +14,12 @@ From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools 
 
 What we're working on now.
 
-| name                                             | description                                                                                                  |
-|:-------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
-| [Agenda Watch](http://agendawatch.org/)                                     | Collecting and analyzing meeting agendas from local governments across the U.S.                              |
-| [biglocalnews.org](https://biglocalnews.org)                                 | A free archiving service for journalists to store and share data                                             |
-| [Community Law Enforcement Accountability Network](https://data.berkeley.edu/news/berkeley-data-science-students-journalism-faculty-building-public-database-police-misconduct) | Collecting and analyzing use of force and misconduct cases from local law enforcement agencies               |
-| Court Scraper                                    | Collecting and anlyzing case information from county courts across the U.S.                                  |
-| [COVID-19 Case Mapper](https://covid19.biglocalnews.org/county-maps/index.html#/)                             | A tool for local journalists to easily embed up-to-date visualizations of COVID-19 trends in their community |
-| [JSK-BLN Reporting Grants](https://jsk.stanford.edu/news/2020/jsk-and-big-local-news-launch-new-data-journalism-grants/)                         | Funding data-driven, replicable stories related to the COVID-19 pandemic                                     |
-| Layoff Watch                                     | Collecting and analyzing WARN Act notices of mass layoffs and plant closures across the U.S.                 |
-| [Stanford School Enrollment Project](https://docs.google.com/document/d/1WRm4KZPDGL1USPaf0E1AIa7gbyeKncv04Pg_rM1N7po/edit)               | Collecting and analyzing a nationwide dataset of K-12 school enrollment before and after the COVID-19 pandemic                        |
-| [The 2020 Census Data Co-op](https://sites.google.com/stanford.edu/census-data-co-op)                       | Tools and training to help journalists find Census stories                                                   |
+| Topic            | Description                                                                                                   | Projects                                                                |
+|:-----------------|:--------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
+| Law enforcement  | Gathering and analyzing local law enforcment records related to use of force, misconduct and racial profiling | [Community Law Enforcement Accountability Network](https://data.berkeley.edu/news/berkeley-data-science-students-journalism-faculty-building-public-database-police-misconduct), [Stanford Open Policing Project](https://openpolicing.stanford.edu/) |
+| Local government | Gathering and mining public records from local boards, councils and courts                                    | [Agenda Watch](http://agendawatch.org/), [Court Scraper](https://github.com/biglocalnews/court-scraper)                                             |
+| COVID-19         | Tracking the toll the COVID-19 pandemic, as well as its impact on our economy and public institutions         | [COVID-19 Case Mapper](https://covid19.biglocalnews.org/county-maps/index.html#/), [Stanford School Enrollment Project](A nationwide dataset of K-12 school enrollment before and after the COVID-19 pandemic), [Layoff Watch](https://github.com/biglocalnews/warn-github-flow)  |
+| Demographics     | Tools and trainings that help journalists find and tell stories using Census data                             | [The 2020 Census Data Co-op](https://sites.google.com/stanford.edu/census-data-co-op)                                              |                                               |
 
 ## Our staff
 
