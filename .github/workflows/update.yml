@@ -1,0 +1,33 @@
+name: Update
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # 9 a.m. every day UTC
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Install pipenv
+      run: pipx install pipenv
+
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        cache: 'pipenv'
+
+    - run: pipenv install --python `which python`
+
+    - name: Update
+      run: pipenv run python update.py
+
+    - name: Add and commit
+      id: add_commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        committer_name: Automated
+        committer_email: actions@users.noreply.github.com
+        message: "Update README"
