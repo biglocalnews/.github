@@ -2,7 +2,7 @@
 
 It’s too hard for local journalists to access public records about policing, public health, government and other vital topics.
 
-From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools and collaborates with reporters to produce journalism that makes an impact. Its website at [biglocalnews.org](https://biglocalnews.org) offers a free archiving service for journalists to store and share data.
+From its base at Stanford University, Big Local News gathers data, builds tools and collaborates with reporters to produce journalism that makes an impact. Its website at [biglocalnews.org](https://biglocalnews.org) offers a free archiving service for journalists to store and share data.
 
 **Table of contents**
 
