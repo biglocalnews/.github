@@ -9,6 +9,7 @@ From its base at Stanford University, BIG LOCAL NEWS gathers data, builds tools 
 * [Projects](https://github.com/biglocalnews#projects)
 * [Staff](https://github.com/biglocalnews#staff)
 * [Open-source software](https://github.com/biglocalnews#open-source-software)
+* [Bylines](https://github.com/biglocalnews#bylines)
 
 ## Projects
 
@@ -49,6 +50,7 @@ Repositories that gather public records from the web.
 | [warn-scraper](https://github.com/biglocalnews/warn-scraper)     | Command-line interface for downloading WARN Act notices of qualified plant closings and mass layoffs |
 | [warn-transformer](https://github.com/biglocalnews/warn-transformer) | Consolidate, enrich and republish the data gathered by warn-scraper                                                                 |
 | [warn-github-flow](https://github.com/biglocalnews/warn-github-flow) | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
+
 ### 🧮 Data analysis
 
 Code that uses data to conduct an investigation
@@ -67,3 +69,12 @@ Tools that connect to our platform at [biglocalnews.org](https://biglocalnews.or
 |------------------------------------------------------------------------|------------------------------------------------------------------------|
 | [bln-python-client](https://github.com/biglocalnews/bln-python-client) | Python client for the biglocalnews.org API                             |
 | [upload-files](https://github.com/biglocalnews/upload-files)           | Upload comma-delimited files to biglocalnews.org in your GitHub Action |
+
+## Bylines
+
+Stories, guides and other articles by the Big Local News team and its partners.
+
+| date | domain | headline |
+|:--|:--|:--|{% for obj in byline_list %}
+|  {{ obj.pub_date }} | {{ obj.domain }} | [{{ obj.headline }}]({{ obj.url }}) |{% endfor %}
+
