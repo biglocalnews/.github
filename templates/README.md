@@ -72,7 +72,7 @@ Tools that connect to our platform at [biglocalnews.org](https://biglocalnews.or
 
 ## Bylines
 
-Stories, guides and other articles by the Big Local News team and its partners.
+Stories, guides and other articles by the Big Local News team and its partners. Logged in [biglocalnews/bylines](https://github.com/biglocalnews/bylines)
 
 | date | domain | headline |
 |:--|:--|:--|{% for obj in byline_list %}
