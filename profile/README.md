@@ -85,6 +85,7 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 |  2022-01-21 | github.com | [How to open Excel files in Python without pandas](https://gist.github.com/palewire/381bd617d1d41e18b3b71f1755dbd9ed) |
 |  2021-12-06 | boisedev.com | [New Census data shows Idaho saw increased diversity, with growth among Black, Hispanic, and Asian groups](https://boisedev.com/news/2021/12/06/idaho-racial-demographics/) |
 |  2021-11-30 | washingtonpost.com | [The Lost Local News Issue](https://www.washingtonpost.com/magazine/interactive/2021/local-news-deserts-expanding/) |
+|  2021-12-26 | flintbeat.com | [When race data goes missing, how do health leaders combat COVID racial disparities in Flint?](https://flintbeat.com/when-race-data-goes-missing-how-do-health-leaders-combat-covid-racial-disparities-in-flint/) |
 |  2021-11-18 | delawarebusinessnow.com | [Census mapping project highlights a changing Delaware](https://delawarebusinessnow.com/2021/11/census-mapping-project-highlights-a-changing-delaware/) |
 |  2021-11-01 | rjionline.org | [Making Agenda Watch useful to journalists across the country](https://rjionline.org/news/making-agenda-watch-useful-to-journalists-across-the-country/) |
 |  2021-10-19 | mercurynews.com | [One Bay Area city, 73 police dog bites, and the law that made them public](https://www.mercurynews.com/2021/12/19/one-bay-area-city-73-police-dog-bites-and-the-law-that-made-them-public/) |
