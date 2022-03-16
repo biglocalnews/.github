@@ -76,6 +76,7 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 
 | date | domain | headline |
 |:--|:--|:--|
+|  2022-03-16 | thegazette.com | [61 more employees being let go from Duane Arnold nuclear plant](https://www.thegazette.com/news/61-more-employees-being-let-go-from-duane-arnold-nuclear-plant/) |
 |  2022-03-06 | palewi.re | [First Visual Story](https://palewi.re/docs/first-visual-story/) |
 |  2022-03-05 | palewi.re | [First GitHub Scraper](https://palewi.re/docs/first-github-scraper/) |
 |  2022-03-03 | poynter.org | [How to Develop Stories from 2020 Census Data](https://www.poynter.org/shop/reporting-editing/how-to-develop-stories-from-2020-census-data/) |
