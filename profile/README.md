@@ -47,7 +47,6 @@ Repositories that gather public records from the web.
 |:-----------------|:------------------------------------------------------------------------------------------------------------------------------------|
 | [civic-scraper](https://github.com/biglocalnews/civic-scraper)    | Download agendas, minutes and other documents produced by local governments                                                         |
 | [court-scraper](https://github.com/biglocalnews/court-scraper)    | Python library and command-line tool that collects case information from U.S. county courts.        |
-| [prefect-flow-template](https://github.com/biglocalnews/prefect-flow-template/) | A template repository with all the fundamentals needed to develop and deploy a Python data-processing routine for Prefect pipelines. |
 | [warn-scraper](https://github.com/biglocalnews/warn-scraper)     | Command-line interface for downloading WARN Act notices of qualified plant closings and mass layoffs |
 | [warn-transformer](https://github.com/biglocalnews/warn-transformer) | Consolidate, enrich and republish the data gathered by warn-scraper                                                                 |
 | [warn-github-flow](https://github.com/biglocalnews/warn-github-flow) | GitHub Action workflow for automating a WARN Act notice ETL pipeline                                                                |
