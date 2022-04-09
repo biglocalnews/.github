@@ -77,6 +77,7 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 
 | date | domain | headline |
 |:--|:--|:--|
+|  2022-04-08 | siouxcityjournal.com | [Rembrandt is laying off 135 workers at Buena Vista County egg-laying facility](https://siouxcityjournal.com/news/local/rembrandt-lays-off-135-workers-at-buena-vista-county-egg-laying-facility/article_e128e690-1aea-5735-8fe4-d667a1fab8aa.html) |
 |  2022-03-16 | thegazette.com | [61 more employees being let go from Duane Arnold nuclear plant](https://www.thegazette.com/news/61-more-employees-being-let-go-from-duane-arnold-nuclear-plant/) |
 |  2022-03-06 | palewi.re | [First Visual Story](https://palewi.re/docs/first-visual-story/) |
 |  2022-03-05 | palewi.re | [First GitHub Scraper](https://palewi.re/docs/first-github-scraper/) |
