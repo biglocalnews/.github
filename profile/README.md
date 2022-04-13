@@ -77,14 +77,17 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 
 | date | domain | headline |
 |:--|:--|:--|
+|  2020-04-13 | kvpr.org | [Bakersfield Police Department fails to identify people in crisis, thwarting reform](https://www.kvpr.org/local-news/2022-04-12/bakersfield-police-department-fails-to-identify-people-in-crisis-thwarting-reform) |
+|  2020-04-11 | biglocalnews.org | [A beginner’s guide to FBI crime statistics](https://biglocalnews.org/posts/2022/04/11/guide-to-fbi-crime-statistics.html) |
+|  2020-04-11 | biglocalnews.org | [How journalists supported by Big Local News covered COVID’s costly toll on the disadvantaged](https://biglocalnews.org/posts/2022/04/11/covid-grant-stories.html) |
 |  2022-04-08 | siouxcityjournal.com | [Rembrandt is laying off 135 workers at Buena Vista County egg-laying facility](https://siouxcityjournal.com/news/local/rembrandt-lays-off-135-workers-at-buena-vista-county-egg-laying-facility/article_e128e690-1aea-5735-8fe4-d667a1fab8aa.html) |
 |  2022-03-16 | thegazette.com | [61 more employees being let go from Duane Arnold nuclear plant](https://www.thegazette.com/news/61-more-employees-being-let-go-from-duane-arnold-nuclear-plant/) |
 |  2022-03-06 | palewi.re | [First Visual Story](https://palewi.re/docs/first-visual-story/) |
 |  2022-03-05 | palewi.re | [First GitHub Scraper](https://palewi.re/docs/first-github-scraper/) |
 |  2022-03-03 | poynter.org | [How to Develop Stories from 2020 Census Data](https://www.poynter.org/shop/reporting-editing/how-to-develop-stories-from-2020-census-data/) |
 |  2022-03-03 | muckrock.com | [How you can use eviction data and public records to report on housing during the pandemic](https://www.muckrock.com/news/archives/2022/mar/03/how-you-can-use-eviction-data-and-public-records/) |
-|  2022-01-31 | github.com | [How to deploy a Prefect agent to Google Kubernetes Engine](https://gist.github.com/palewire/072513a9940478370697323c0d15c6ec) |
-|  2022-01-27 | github.com | [How to push tagged Docker releases to Google Artifact Registry with a GitHub Action](https://gist.github.com/palewire/12c4b2b974ef735d22da7493cf7f4d37) |
+|  2022-01-31 | biglocalnews.org | [How to deploy a Prefect agent to Google Kubernetes Engine](https://biglocalnews.org/posts/2022/01/29/kubernetes-prefect-agent.html) |
+|  2022-01-27 | biglocalnews.org | [How to push tagged Docker releases to Google Artifact Registry with a GitHub Action](https://biglocalnews.org/posts/2022/01/27/docker-google-artifact-action.html) |
 |  2022-01-21 | github.com | [How to open Excel files in Python without pandas](https://gist.github.com/palewire/381bd617d1d41e18b3b71f1755dbd9ed) |
 |  2021-12-06 | boisedev.com | [New Census data shows Idaho saw increased diversity, with growth among Black, Hispanic, and Asian groups](https://boisedev.com/news/2021/12/06/idaho-racial-demographics/) |
 |  2021-11-30 | washingtonpost.com | [The Lost Local News Issue](https://www.washingtonpost.com/magazine/interactive/2021/local-news-deserts-expanding/) |
@@ -92,6 +95,7 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 |  2021-11-18 | delawarebusinessnow.com | [Census mapping project highlights a changing Delaware](https://delawarebusinessnow.com/2021/11/census-mapping-project-highlights-a-changing-delaware/) |
 |  2021-11-01 | rjionline.org | [Making Agenda Watch useful to journalists across the country](https://rjionline.org/news/making-agenda-watch-useful-to-journalists-across-the-country/) |
 |  2021-10-19 | mercurynews.com | [One Bay Area city, 73 police dog bites, and the law that made them public](https://www.mercurynews.com/2021/12/19/one-bay-area-city-73-police-dog-bites-and-the-law-that-made-them-public/) |
+|  2021-10-16 | com.gt | [Las muertes por coronavirus fuera de los hospitales de El Salvador ](https://especiales.elperiodico.com.gt/2021/muertes-por-covid-19/el-salvador.html) |
 |  2021-09-21 | saludconlupa.com | [El Otro Perú](https://saludconlupa.com/series/el-otro-peru/) |
 |  2021-09-20 | southpasadenareview.com | [City’s Population Grew 5% Over 10 Years, Census Shows](https://southpasadenareview.com/2021/09/20/citys-population-grew-5-over-10-years-census-shows/) |
 |  2021-08-24 | hpherald.com | [Census shows Hyde Park’s population up 14.7% from 2010](https://www.hpherald.com/news/local/census-shows-hyde-park-s-population-up-14-7-from-2010/article_a98721ae-04f3-11ec-be6b-672a2e5f9f69.html) |
@@ -107,9 +111,13 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 |  2021-08-07 | nytimes.com | [The Kindergarten Exodus](https://www.nytimes.com/2021/08/07/us/covid-kindergarten-enrollment.html?partner=slack&smid=sl-share) |
 |  2021-07-22 | stanford.edu | [The Brown Institute announces new programs and grants](https://engineering.stanford.edu/news/brown-institute-announces-new-programs-and-grants) |
 |  2021-07-22 | muckrock.com | [How the Indigenous Investigative Collective use public records to show dire gaps in COVID-19 data access](https://www.muckrock.com/news/archives/2021/jul/22/webinar-how-indigenous-investigative-collective-us/) |
+|  2021-06-28 | mediatracnet.com | [COVID-19 Paradox: Nigerian households suffer food price surges, amidst dwindling income](https://mediatracnet.com/covid-19-paradox-nigerian-households-suffer-food-price-surges-amidst-dwindling-income/) |
 |  2021-06-16 | kqed.org | [Bakersfield Police Broke 31 People’s Bones in Four Years. No Officer Has Been Disciplined for It](https://www.kqed.org/news/11878013/bakersfield-police-broke-31-peoples-bones-in-four-years-no-officer-has-been-disciplined-for-it) |
 |  2021-06-15 | stanford.edu | [How Stanford students helped with a Pulitzer Prize-winning project](https://news.stanford.edu/report/2021/06/15/stanford-students-helped-pulitzer-prize-winning-project/) |
 |  2021-06-08 | hcn.org | [A broken system: The number of Indigenous people who died from coronavirus may never be known](https://www.hcn.org/articles/indigenous-affairs-covid19-a-broken-system-the-number-of-indigenous-people-who-died-from-coronavirus-may-never-be-known) |
+|  2021-06-06 | riseproject.ro | [”THE SYRINGE” DEAL](https://www.riseproject.ro/investigation/the-syringe-deal/) |
+|  2021-06-06 | riseproject.ro | [NINE PLANES WITH MASKS](https://www.riseproject.ro/investigation/nine-plane-with-masks/) |
+|  2021-05-29 | missoulian.com | [Wide disparity in COVID relief to tribes](https://missoulian.com/news/local/wide-disparity-in-covid-relief-to-tribes/article_54f76313-6946-5eeb-93b9-5aa7241d03b8.html) |
 |  2021-05-01 | revealnews.org | [Rampant racial disparities plagued how billions of dollars in PPP loans were distributed in the U.S.](https://revealnews.org/article/rampant-racial-disparities-plagued-how-billions-of-dollars-in-ppp-loans-were-distributed-in-the-u-s/) |
 |  2021-05-01 | revealnews.org | [PPP Reporting Network](https://revealnews.org/ppp-reporting-network/) |
 |  2021-03-15 | localnewsmatters.org | [Job layoffs spur housing struggles in state even as evictions remain on hold](https://localnewsmatters.org/2021/03/15/job-layoffs-spur-housing-struggles-in-state-even-as-evictions-remain-on-hold/?utm_source=twitter&utm_medium=social&utm_campaign=all_content) |
