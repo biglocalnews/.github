@@ -77,6 +77,7 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 
 | date | domain | headline |
 |:--|:--|:--|
+|  2020-04-18 | tampabay.com | [Eckerd Connects to lay off 176 as Hillsborough foster care winds down](https://www.tampabay.com/news/hillsborough/2022/04/18/eckerd-connects-to-lay-off-176-as-hillsborough-foster-care-winds-down/) |
 |  2020-04-13 | chicagotribune.com | [PepsiCo closing Barrington research facility, laying off 78 employees and transferring more than 130 others](https://www.chicagotribune.com/business/ct-biz-pepsi-layoffs-closing-barrington-facility-20220413-cufzon7tizfubmrkupcta4dh5e-story.html) |
 |  2020-04-13 | kvpr.org | [Bakersfield Police Department fails to identify people in crisis, thwarting reform](https://www.kvpr.org/local-news/2022-04-12/bakersfield-police-department-fails-to-identify-people-in-crisis-thwarting-reform) |
 |  2020-04-11 | biglocalnews.org | [A beginner’s guide to FBI crime statistics](https://biglocalnews.org/posts/2022/04/11/guide-to-fbi-crime-statistics.html) |
