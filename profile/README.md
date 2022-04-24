@@ -77,11 +77,11 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 
 | date | domain | headline |
 |:--|:--|:--|
-|  2020-04-18 | tampabay.com | [Eckerd Connects to lay off 176 as Hillsborough foster care winds down](https://www.tampabay.com/news/hillsborough/2022/04/18/eckerd-connects-to-lay-off-176-as-hillsborough-foster-care-winds-down/) |
-|  2020-04-13 | chicagotribune.com | [PepsiCo closing Barrington research facility, laying off 78 employees and transferring more than 130 others](https://www.chicagotribune.com/business/ct-biz-pepsi-layoffs-closing-barrington-facility-20220413-cufzon7tizfubmrkupcta4dh5e-story.html) |
-|  2020-04-13 | kvpr.org | [Bakersfield Police Department fails to identify people in crisis, thwarting reform](https://www.kvpr.org/local-news/2022-04-12/bakersfield-police-department-fails-to-identify-people-in-crisis-thwarting-reform) |
-|  2020-04-11 | biglocalnews.org | [A beginner’s guide to FBI crime statistics](https://biglocalnews.org/posts/2022/04/11/guide-to-fbi-crime-statistics.html) |
-|  2020-04-11 | biglocalnews.org | [How journalists supported by Big Local News covered COVID’s costly toll on the disadvantaged](https://biglocalnews.org/posts/2022/04/11/covid-grant-stories.html) |
+|  2022-04-18 | tampabay.com | [Eckerd Connects to lay off 176 as Hillsborough foster care winds down](https://www.tampabay.com/news/hillsborough/2022/04/18/eckerd-connects-to-lay-off-176-as-hillsborough-foster-care-winds-down/) |
+|  2022-04-13 | kvpr.org | [Bakersfield Police Department fails to identify people in crisis, thwarting reform](https://www.kvpr.org/local-news/2022-04-12/bakersfield-police-department-fails-to-identify-people-in-crisis-thwarting-reform) |
+|  2022-04-13 | chicagotribune.com | [PepsiCo closing Barrington research facility, laying off 78 employees and transferring more than 130 others](https://www.chicagotribune.com/business/ct-biz-pepsi-layoffs-closing-barrington-facility-20220413-cufzon7tizfubmrkupcta4dh5e-story.html) |
+|  2022-04-11 | biglocalnews.org | [A beginner’s guide to FBI crime statistics](https://biglocalnews.org/posts/2022/04/11/guide-to-fbi-crime-statistics.html) |
+|  2022-04-11 | biglocalnews.org | [How journalists supported by Big Local News covered COVID’s costly toll on the disadvantaged](https://biglocalnews.org/posts/2022/04/11/covid-grant-stories.html) |
 |  2022-04-08 | siouxcityjournal.com | [Rembrandt is laying off 135 workers at Buena Vista County egg-laying facility](https://siouxcityjournal.com/news/local/rembrandt-lays-off-135-workers-at-buena-vista-county-egg-laying-facility/article_e128e690-1aea-5735-8fe4-d667a1fab8aa.html) |
 |  2022-03-16 | thegazette.com | [61 more employees being let go from Duane Arnold nuclear plant](https://www.thegazette.com/news/61-more-employees-being-let-go-from-duane-arnold-nuclear-plant/) |
 |  2022-03-06 | palewi.re | [First Visual Story](https://palewi.re/docs/first-visual-story/) |
@@ -91,9 +91,9 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 |  2022-01-31 | biglocalnews.org | [How to deploy a Prefect agent to Google Kubernetes Engine](https://biglocalnews.org/posts/2022/01/29/kubernetes-prefect-agent.html) |
 |  2022-01-27 | biglocalnews.org | [How to push tagged Docker releases to Google Artifact Registry with a GitHub Action](https://biglocalnews.org/posts/2022/01/27/docker-google-artifact-action.html) |
 |  2022-01-21 | github.com | [How to open Excel files in Python without pandas](https://gist.github.com/palewire/381bd617d1d41e18b3b71f1755dbd9ed) |
+|  2021-12-26 | flintbeat.com | [When race data goes missing, how do health leaders combat COVID racial disparities in Flint?](https://flintbeat.com/when-race-data-goes-missing-how-do-health-leaders-combat-covid-racial-disparities-in-flint/) |
 |  2021-12-06 | boisedev.com | [New Census data shows Idaho saw increased diversity, with growth among Black, Hispanic, and Asian groups](https://boisedev.com/news/2021/12/06/idaho-racial-demographics/) |
 |  2021-11-30 | washingtonpost.com | [The Lost Local News Issue](https://www.washingtonpost.com/magazine/interactive/2021/local-news-deserts-expanding/) |
-|  2021-12-26 | flintbeat.com | [When race data goes missing, how do health leaders combat COVID racial disparities in Flint?](https://flintbeat.com/when-race-data-goes-missing-how-do-health-leaders-combat-covid-racial-disparities-in-flint/) |
 |  2021-11-18 | delawarebusinessnow.com | [Census mapping project highlights a changing Delaware](https://delawarebusinessnow.com/2021/11/census-mapping-project-highlights-a-changing-delaware/) |
 |  2021-11-01 | rjionline.org | [Making Agenda Watch useful to journalists across the country](https://rjionline.org/news/making-agenda-watch-useful-to-journalists-across-the-country/) |
 |  2021-10-19 | mercurynews.com | [One Bay Area city, 73 police dog bites, and the law that made them public](https://www.mercurynews.com/2021/12/19/one-bay-area-city-73-police-dog-bites-and-the-law-that-made-them-public/) |
@@ -117,8 +117,8 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 |  2021-06-16 | kqed.org | [Bakersfield Police Broke 31 People’s Bones in Four Years. No Officer Has Been Disciplined for It](https://www.kqed.org/news/11878013/bakersfield-police-broke-31-peoples-bones-in-four-years-no-officer-has-been-disciplined-for-it) |
 |  2021-06-15 | stanford.edu | [How Stanford students helped with a Pulitzer Prize-winning project](https://news.stanford.edu/report/2021/06/15/stanford-students-helped-pulitzer-prize-winning-project/) |
 |  2021-06-08 | hcn.org | [A broken system: The number of Indigenous people who died from coronavirus may never be known](https://www.hcn.org/articles/indigenous-affairs-covid19-a-broken-system-the-number-of-indigenous-people-who-died-from-coronavirus-may-never-be-known) |
-|  2021-06-06 | riseproject.ro | [”THE SYRINGE” DEAL](https://www.riseproject.ro/investigation/the-syringe-deal/) |
-|  2021-06-06 | riseproject.ro | [NINE PLANES WITH MASKS](https://www.riseproject.ro/investigation/nine-plane-with-masks/) |
+|  2021-06-06 | riseproject.ro | [“The Syringe” Deal](https://www.riseproject.ro/investigation/the-syringe-deal/) |
+|  2021-06-06 | riseproject.ro | [Nine Planes with Masks](https://www.riseproject.ro/investigation/nine-plane-with-masks/) |
 |  2021-05-29 | missoulian.com | [Wide disparity in COVID relief to tribes](https://missoulian.com/news/local/wide-disparity-in-covid-relief-to-tribes/article_54f76313-6946-5eeb-93b9-5aa7241d03b8.html) |
 |  2021-05-01 | revealnews.org | [Rampant racial disparities plagued how billions of dollars in PPP loans were distributed in the U.S.](https://revealnews.org/article/rampant-racial-disparities-plagued-how-billions-of-dollars-in-ppp-loans-were-distributed-in-the-u-s/) |
 |  2021-05-01 | revealnews.org | [PPP Reporting Network](https://revealnews.org/ppp-reporting-network/) |
@@ -133,6 +133,7 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 |  2020-06-15 | stanford.edu | [The Brown Institute of Stanford and Columbia universities announces its Magic Grant winners](https://news.stanford.edu/2020/06/15/brown-institute-stanford-columbia-universities-announces-magic-grant-winners-3/) |
 |  2020-05-08 | reuters.com | [Shielded: How an obscure legal doctrine called qualified immunity protects police accused of excessive force](https://www.reuters.com/investigates/section/usa-police-immunity/) |
 |  2020-05-05 | opennews.org | [A comparison of four major COVID-19 data sources](https://source.opennews.org/articles/comparison-four-major-covid-19-data-sources/) |
+|  2020-05-04 | nature.com | [A large-scale analysis of racial disparities in police stops across the United States](https://www.nature.com/articles/s41562-020-0858-1) |
 |  2020-04-29 | opennews.org | [COVID-19 story recipe: Using AHA data to analyze hospital bed capacity](https://source.opennews.org/articles/covid-19-story-recipe-aha-data-beds/) |
 |  2020-04-23 | investigativereportingworkshop.org | [COVID-19 map offers state, county views](https://investigativereportingworkshop.org/news/covid-19-map-offers-state-county-views/) |
 |  2020-04-16 | thewrap.com | [Stanford University, Google Create Coronavirus Maps for Journalists](https://www.thewrap.com/stanford-university-google-create-coronavirus-maps-for-journalists/) |
@@ -140,3 +141,9 @@ Stories, guides and other articles by the Big Local News team and its partners. 
 |  2020-04-08 | montereycountyweekly.com | [Introducing an interactive Covid-19 mapper for Monterey County and its neighbors.](https://www.montereycountyweekly.com/blogs/news_blog/introducing-an-interactive-covid-19-mapper-for-monterey-county-and-its-neighbors/article_e6c2c314-81c5-11ea-aee0-7b9363d60c71.html) |
 |  2019-08-30 | whatsnewinpublishing.com | [How can local news organizations thrive in a digital age?](https://whatsnewinpublishing.com/how-can-local-news-organizations-thrive-in-a-digital-age/) |
 |  2018-10-15 | stanford.edu | [Stanford scholars are helping journalists do investigative journalism through data](https://news.stanford.edu/2018/10/15/helping-journalists-use-data-investigative-reporting/) |
+|  2017-06-19 | slate.com | [Police Data Suggests Black and Hispanic Drivers Are Searched More Often Than Whites](https://slate.com/technology/2017/06/statistical-analysis-of-data-from-20-states-suggests-evidence-of-racially-biased-policing.html) |
+|  2017-02-27 | arxiv.org | [Fast Threshold Tests for Detecting Discrimination](https://arxiv.org/abs/1702.08536) |
+|  2016-07-19 | arxiv.org | [The Problem of Infra-marginality in Outcome Tests for Discrimination](https://arxiv.org/abs/1607.05376) |
+|  2016-06-21 | themarshallproject.org | [Are Traffic Stops Prone to Racial Bias?](https://www.themarshallproject.org/2016/06/21/are-traffic-stops-prone-to-racial-bias) |
+|  2016-06-01 | ssrn.com | [Combatting Police Discrimination in the Age of Big Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2787101) |
+|  2016-04-02 | ssrn.com | [Precinct or Prejudice? Understanding Racial Disparities in New York City's Stop-and-Frisk Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2572718) |
