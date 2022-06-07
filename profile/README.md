@@ -4,23 +4,6 @@ It’s too hard for local journalists to access public records about policing, p
 
 From its base at Stanford University, Big Local News gathers data, builds tools and collaborates with reporters to produce journalism that makes an impact. Its website at [biglocalnews.org](https://biglocalnews.org) offers a free archiving service for journalists to store and share data.
 
-**Table of contents**
-
-* [Projects](https://github.com/biglocalnews#projects)
-* [Staff](https://github.com/biglocalnews#staff)
-* [Open-source software](https://github.com/biglocalnews#open-source-software)
-
-## Projects
-
-What we're working on.
-
-| Topic            | Description                                                                                                   | Products                                                                |
-|:-----------------|:--------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
-| Law enforcement  | Gathering local law enforcment records related to use of force, misconduct and racial profiling | [Community Law Enforcement Accountability Network](https://data.berkeley.edu/news/berkeley-data-science-students-journalism-faculty-building-public-database-police-misconduct), [Stanford Open Policing Project](https://openpolicing.stanford.edu/) |
-| Local government | Mining public records from local boards, councils and courts                                    | [Agenda Watch](http://agendawatch.org/), [Court Scraper](https://github.com/biglocalnews/court-scraper)                                             |
-| COVID-19         | Tracking the toll the COVID-19 pandemic, as well as its impact on our economy and public institutions         | [COVID-19 Case Mapper](https://covid19.biglocalnews.org/county-maps/index.html#/), [Stanford School Enrollment Project](https://docs.google.com/document/d/1WRm4KZPDGL1USPaf0E1AIa7gbyeKncv04Pg_rM1N7po/edit), [Layoff Watch](https://github.com/biglocalnews/warn-github-flow)  |
-| Demographics     | Tools and trainings that help journalists find stories using Census data                             | [The 2020 Census Data Co-op](https://sites.google.com/stanford.edu/census-data-co-op)                                              |                                               |
-
 ## Staff
 
 Members of our team on GitHub
