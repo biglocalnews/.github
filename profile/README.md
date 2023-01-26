@@ -16,7 +16,6 @@ Members of our team on GitHub
 * Regina Roberts ([@regirob831](https://github.com/regirob831))
 * Eric Sagara ([@esagara](https://github.com/esagara))
 * Serdar Tumgoren ([@zstumgoren](https://github.com/zstumgoren))
-* Ben Welsh ([@palewire](https://github.com/palewire))
 * Simon Willison ([@simonw](https://github.com/simonw))
 
 ## Open-source software
@@ -52,5 +51,6 @@ Tools that connect to our platform at [biglocalnews.org](https://biglocalnews.or
 
 | name                                                                   | description                                                            |
 |------------------------------------------------------------------------|------------------------------------------------------------------------|
+| [biglocalnews/datasette.biglocalnews.org](https://github.com/biglocalnews/datasette.biglocalnews.org) | A Datasette instance that allows users to explore public and private files hosted by biglocalnews.org  |
 | [bln-python-client](https://github.com/biglocalnews/bln-python-client) | Python client for the biglocalnews.org API                             |
 | [upload-files](https://github.com/biglocalnews/upload-files)           | Upload comma-delimited files to biglocalnews.org in your GitHub Action |
