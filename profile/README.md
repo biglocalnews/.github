@@ -12,7 +12,7 @@ Members of our team on GitHub
 * Dilcia Mercedes ([@Dilcia19](https://github.com/dilcia19/))
 * Joe Nudell ([@jnu](https://github.com/jnu))
 * Cheryl Phillips ([@cephillips](https://github.com/cephillips))
-* Irene Casado Sánchez [@irenecasado](https://github.com/irenecasado)
+* Irene Casado Sánchez ([@irenecasado](https://github.com/irenecasado))
 * Lisa Pickoff-White ([@pickoffwhite](https://github.com/pickoffwhite))
 * Regina Roberts ([@regirob831](https://github.com/regirob831))
 * Eric Sagara ([@esagara](https://github.com/esagara))
