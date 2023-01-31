@@ -9,7 +9,6 @@ From its base at Stanford University, Big Local News gathers data, builds tools 
 Members of our team on GitHub
 
 * Justin Mayo ([@justinmayo](https://github.com/justinmayo))
-* Dilcia Mercedes ([@Dilcia19](https://github.com/dilcia19/))
 * Joe Nudell ([@jnu](https://github.com/jnu))
 * Cheryl Phillips ([@cephillips](https://github.com/cephillips))
 * Irene Casado Sánchez ([@irenecasado](https://github.com/irenecasado))
