@@ -26,6 +26,7 @@ Repositories that gather public records from the web.
 
 | name             | description                                                                                                                         |
 |:-----------------|:------------------------------------------------------------------------------------------------------------------------------------|
+| [aphis-inspection-reports](https://github.com/data-liberation-project/aphis-inspection-reports) | Scrapes inspection data and PDFs from the USDA's Animal and Plant Health Inspection Service |
 | [civic-scraper](https://github.com/biglocalnews/civic-scraper)    | Download agendas, minutes and other documents produced by local governments                                                         |
 | [court-scraper](https://github.com/biglocalnews/court-scraper)    | Python library and command-line tool that collects case information from U.S. county courts.        |
 | [prefect-flow-template](https://github.com/biglocalnews/prefect-flow-template/) | A template repository with all the fundamentals needed to develop and deploy a Python data-processing routine for Prefect pipelines. |
