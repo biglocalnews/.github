@@ -17,8 +17,8 @@ Members of our team on GitHub
 * Eric Sagara ([@esagara](https://github.com/esagara))
 * Serdar Tumgoren ([@zstumgoren](https://github.com/zstumgoren))
 * Simon Willison ([@simonw](https://github.com/simonw))
-* Gerald Rich [@newsroomdev](https://github.com/newsroomdev)
-* Rosie Cima [@cimar](https://github.com/cimar)
+* Gerald Rich ([@newsroomdev](https://github.com/newsroomdev))
+* Rosie Cima ([@cimar](https://github.com/cimar))
 
 ## Open-source software
 
